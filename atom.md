@@ -7,25 +7,25 @@ Monokai
 ## Installed Packages
 ### Enabled
 #### All
-atom-file-icons
-highlight-selected
-minimap
-atom-beautify
-sync-setting
+atom-file-icons  
+highlight-selected  
+minimap  
+atom-beautify  
+sync-setting  
 #### Python
-atom-python-run
-autocomplete python
+atom-python-run  
+autocomplete-python  
 #### Java
-ide-java
+ide-java  
 ### Disabled
 #### C++
-gpp-compiler
+gpp-compiler  
 #### Python
-hydrogen
+hydrogen  
 
 ## May install in the future?
-pigments
-color picker
-emmet
+pigments  
+color picker  
+emmet  
 
 ###### tags: boki2021
